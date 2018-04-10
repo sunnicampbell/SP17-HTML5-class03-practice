@@ -43,3 +43,21 @@ img {
 .highlight {
   background-color: salmon;
 }
+
+
+.document-history{
+    height: 2.5rem;
+    background-color: indianred;
+    font-family: sans-serif;
+    width: 85%;
+    text-align: center;
+}
+article {
+    padding: 1rem;
+    background-color: lightblue;
+    text-align: center;
+    width;100%;
+}
+.document-history p {
+    font-family: Tahoma;
+}
